@@ -1,0 +1,25 @@
+.bg-color{
+    background-color: rgb(71, 210, 235);
+}
+
+.color{
+    color:white;
+}
+.cart{
+    margin-left: 25px;
+    font-size:35px;
+    color:orange;
+}
+
+.size{
+    width:100px;
+
+}
+
+.bd-none{
+    border:0;
+}
+.radius-border{
+    border-radius:10px;
+    border:3px solid rgb(238, 32, 193);
+}
